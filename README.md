@@ -1,52 +1,56 @@
-<!-- Banner / Header -->
+<!-- Anime-style Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi,%20I'm%20Ervan!&fontSize=40&fontColor=ffffff" alt="header" />
+  <img src="https://i.pinimg.com/originals/ce/74/57/ce7457fd4c6e9d8f6a3c785be7b5c318.gif" width="100%" alt="anime banner" />
 </p>
 
-<!-- Bio -->
+<!-- Profile Avatar (Optional) -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" style="border-radius: 50%" alt="My Avatar" />
+  <img src="https://i.pinimg.com/originals/20/0f/1f/200f1f655cc019b3747a1e50a26eb4e0.gif" width="160" alt="anime avatar" style="border-radius: 50%;" />
 </p>
 
+<!-- Intro Text -->
+<h2 align="center">✨ Hi, I'm Ervan 👋</h2>
 <p align="center">
-  🚀 Full-Stack Web Developer <br>
-  💡 Always learning something new <br>
-  🎯 Passionate about Laravel, JavaScript & Open Source
+  💻 Passionate Web Developer | 🌸 Anime Lover <br>
+  I enjoy building websites and watching One Piece at 2 AM 🍜
 </p>
 
 ---
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/ervankhoirul"><img src="https://img.shields.io/github/followers/ervankhoirul?label=Followers&style=social" /></a>
+  <a href="https://github.com/ervankhoirul"><img src="https://img.shields.io/github/followers/ervankhoirul?label=GitHub&style=social" /></a>
   <a href="https://linkedin.com/in/ervankhoirul"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:ervan@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ervan@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <!-- Skills -->
-### 🛠 Tech Stack
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-E74430?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-<!-- GitHub Stats -->
-### 📈 GitHub Stats
+### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ervankhoirul&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ervankhoirul&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git" />
 </p>
 
 ---
 
-<!-- Footer -->
+<!-- Stats -->
+### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=100&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ervankhoirul&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ervankhoirul&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+<!-- Quote / Footer -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/6a/5e/ab/6a5eabf67e38789e37f0f0c9fcfe5bc0.gif" width="300" />
+</p>
+
+<p align="center">
+  <i>"Code. Sleep. Anime. Repeat."</i>
 </p>
